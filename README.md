@@ -1,3 +1,14 @@
+## 2017-2018 Final Year Project —— Financial Prediction by Deep Learning Neural Networks
+#### Supervisor: 
+#### Students
+1. A
+1. B
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jyliu-jade/try_a_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
